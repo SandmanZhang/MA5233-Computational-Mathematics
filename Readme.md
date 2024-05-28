@@ -18,7 +18,7 @@ equation numerically.
 
 ### Project 2:Solving Time-Dependent Convection-Diffusion Equation
 
-$$\frac{\partial{u}}{\partial{t}}+\mathbf{v}\cdot \nabla_x{u}=\frac{1}{10}\Delta{u} \quad \mathbf{*x}=(x,y)^T\in \Omega,\quad t\in R^+$$
+$$\frac{\partial{u}}{\partial{t}}+\mathbf{v}\cdot \nabla_x{u}=\frac{1}{10}\Delta{u} \quad \mathbf{x}=(x,y)^T\in \Omega,\quad t\in R^+$$
 
 $$u(\mathbf{x}, t)=0,\quad \mathbf{x} \in \partial{\Omega}, \quad t\in R^+$$
 
